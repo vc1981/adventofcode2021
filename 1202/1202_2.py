@@ -1,6 +1,5 @@
 file = open('data.txt', 'r')
 lines = file.readlines()
-iteration = 0
 x_position = 0
 y_position = 0
 aim = 0
